@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "酔いどれ知らず",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-17T12:14:46.880825Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/01_酔いどれ知らず_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/02_酔いどれ知らず_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "R+...",
+      "has_synced": true,
+      "path": "select/03_酔いどれ知らず_R+....lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "ずま",
+      "has_synced": false,
+      "path": "select/04_酔いどれ知らず_ずま.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Sugi Aoki",
+      "has_synced": true,
+      "path": "select/05_酔いどれ知らず_Sugi_Aoki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Zuma",
+      "has_synced": true,
+      "path": "select/06_酔いどれ知らず_Zuma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/07_酔いどれ知らず_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "酔いどれ知らず",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/08_酔いどれ知らず_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "酔いどれ知らず (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/09_酔いどれ知らず_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酔いどれ知らず",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_酔いどれ知らず_Kanaria.txt"
+    }
+  ]
+}
